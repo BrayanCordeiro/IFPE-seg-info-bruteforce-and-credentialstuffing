@@ -1,6 +1,8 @@
-# Brute-force de Login — OWASP Juice Shop
+# Brute-force e Credential-stuffing de Login — OWASP Juice Shop
 
 Este documento explica o funcionamento de dois métodos equivalentes para realizar um ataque de força bruta (brute-force) contra o endpoint de login da aplicação vulnerável **OWASP Juice Shop**, usando a wordlist `rockyou.txt`.
+
+Os slides para a apresentação podem ser encontrados em: https://canva.link/8umv5cy49irzav5
 
 >  **Aviso legal:** este material é destinado exclusivamente a fins educacionais e testes em ambientes controlados/autorizados (ex.: laboratórios de pentest como o Juice Shop). 
 
